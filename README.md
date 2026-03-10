@@ -32,18 +32,18 @@ My very first web project, built using **Google Sites**. This site is a visual r
 Aqui estão alguns registros do projeto:
 
 <img width="1857" height="908" alt="Captura de tela 2026-03-10 190632" src="https://github.com/user-attachments/assets/143b2486-2d37-458f-88d3-29de0af8ac9a" />
-*Tela inicial do site em PT-BR
+*Tela inicial do site em PT-BR*
 
 <img width="1809" height="819" alt="Captura de tela 2026-03-10 190732" src="https://github.com/user-attachments/assets/7273dddb-ed89-4036-a6ca-d709f8633b4e" />
-*Mural de mensagens anônimo 
+*Mural de mensagens anônimo* 
 
 <img width="1816" height="791" alt="Captura de tela 2026-03-10 190752" src="https://github.com/user-attachments/assets/92b9e69c-2a4b-49dc-9962-ccd66d1209f7" />
-*Contagem regressiva para o lançamento do álbum
+*Contagem regressiva para o lançamento do álbum*
 
 ---
 
 ## 🌍 Apoio à Comunidade (Saúde Mental)
-O projeto inclui uma seção dedicada ao bem-estar dos fãs, com contatos de órgãos de saúde mental em diversos países da América Latina (Argentina, Chile, Colômbia, México e Peru).
+*O projeto inclui uma seção dedicada ao bem-estar dos fãs, com contatos de órgãos de saúde mental em diversos países da América Latina (Argentina, Chile, Colômbia, México e Peru).*
 
 <p align="center">
   <img width="1843" height="805" alt="Captura de tela 2026-03-10 190821" src="https://github.com/user-attachments/assets/4c99cf3b-2ee6-4606-80ef-06bf928cbd9e" />
